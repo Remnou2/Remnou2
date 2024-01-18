@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-  <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="24">
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="24">
 </p>
 - 📗 I’m currently learning at Epitech Paris<br/>
 - 📫 How to reach me: remi.nouveau@epitech.eu<br/>
